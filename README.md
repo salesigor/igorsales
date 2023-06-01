@@ -10,3 +10,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Development
 
+[![Igor's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=salesigor&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/salesigor)
