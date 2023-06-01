@@ -6,10 +6,10 @@ My name is Igor Sales from Brazil (🇧🇷)...
 In my free time I like to...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salesigor)](https://www.linkedin.com/in/salesigor)
+[![Linkedin Badge](https://img.shields.io/badge/email-grey)](mailto:contatoigorsal@gmail.com)
 
 🧙 Here are some ideas about me:
 
 - 🔭 I’m currently working on Estabilis
 - 🌱 I’m currently learning Python, SQL and studying to the Exin DevOps Professional Exam
-- 📫 How to reach me: contatoigorsal@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
